@@ -1,0 +1,58 @@
+{
+    "English": {
+      "mainMenu": "Main Menus",
+      "profile": "Profile",
+      "logout": "Logout",
+      "components": "Components",
+      "transactions": "Transactions",
+      "settings": "Settings",
+      "product": "Product",
+      "pages": "Pages",
+      "chatList": "Chat List",
+      "goodMorning": "Good Morning",
+      "Williams": "Williams"
+    },
+    "French": {
+      "mainMenu": "Menus Principaux",
+      "profile": "Profil",
+      "logout": "Se Déconnecter",
+      "components": "Composants",
+      "transactions": "Transactions",
+      "settings": "Paramètres",
+      "product": "Produit",
+      "pages": "Pages",
+      "chatList": "Liste de Chat",
+      "goodMorning": "Bonjour",
+      "Williams": "Williams"
+
+    },
+    "Spanish": {
+      "mainMenu": "Menús Principales",
+      "profile": "Perfil",
+      "logout": "Cerrar Sesión",
+      "components": "Componentes",
+      "transactions": "Transacciones",
+      "settings": "Configuraciones",
+      "product": "Producto",
+      "pages": "Páginas",
+      "chatList": "Lista de Chat",
+      "goodMorning": "Buenos Días",
+      "Williams": "Williams"
+
+    },
+    "Urdu": {
+      "mainMenu": "مینو مینو",
+      "profile": "پروفائل",
+      "logout": "لاگ آوٹ",
+      "components": "اجزاء",
+      "transactions": "لین دین",
+      "settings": "ترتیبات",
+      "product": "پروڈکٹ",
+      "pages": "صفحات",
+      "chatList": "چیٹ لسٹ",
+      "goodMorning": "صبح بخیر",
+      "Williams": "ولیمز"
+
+    }
+  }
+  

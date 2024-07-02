@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "path": "https://img.freepik.com/free-photo/two-coffee-cup-wooden-table_23-2147908352.jpg?t=st=1714551485~exp=1714555085~hmac=07d660cfb842f31fbd0ecdfa34260ab2fb1df8a81d6dc0a093f93c336e441959&w=826",
+      "translations": {
+        "English": {
+          "text": "Chocolate Coffee",
+          "price": "$4.5"
+        },
+        "French": {
+          "text": "Café au Chocolat",
+          "price": "€4,50"
+        },
+        "Spanish": {
+          "text": "Café de Chocolate",
+          "price": "€4,50"
+        },
+        "Urdu": {
+          "text": "چاکلیٹ کوفی",
+          "price": "₨450"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "path": "https://img.freepik.com/premium-photo/glass-green-drink-with-caramel-sauce-being-poured-into-it_632638-1045.jpg?w=360",
+      "translations": {
+        "English": {
+          "text": "Vanilla Latte",
+          "price": "$5.8"
+        },
+        "French": {
+          "text": "Lait de Vanille",
+          "price": "€5,80"
+        },
+        "Spanish": {
+          "text": "Latte de Vainilla",
+          "price": "€5,80"
+        },
+        "Urdu": {
+          "text": "ونیلا لیٹے",
+          "price": "₨580"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "path": "https://img.freepik.com/premium-photo/hot-coffee-cup-old-wood-table-with-blur-dark-green-nature-background-vintage-style_979495-49883.jpg?w=740",
+      "translations": {
+        "English": {
+          "text": "Caramel Macchiato",
+          "price": "$6.2"
+        },
+        "French": {
+          "text": "Caramel Macchiato",
+          "price": "€6,20"
+        },
+        "Spanish": {
+          "text": "Caramel Macchiato",
+          "price": "€6,20"
+        },
+        "Urdu": {
+          "text": "کیریمل میکیاتو",
+          "price": "₨620"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "path": "https://img.freepik.com/free-photo/coffee-cup-wooden-table-with-gradient-photo-style_53876-14314.jpg?t=st=1714552384~exp=1714555984~hmac=ead162ea49e7ff9c5718c129a6dbaa37dbada55f507a8ed4f68d13f414233c84&w=740",
+      "translations": {
+        "English": {
+          "text": "Espresso",
+          "price": "$3.8"
+        },
+        "French": {
+          "text": "Espresso",
+          "price": "€3,80"
+        },
+        "Spanish": {
+          "text": "Espresso",
+          "price": "€3,80"
+        },
+        "Urdu": {
+          "text": "ایسپریسو",
+          "price": "₨380"
+        }
+      }
+    }
+  ],
+  "featured": {
+    "images": [
+      {
+        "id": 1,
+        "path": "https://img.freepik.com/free-photo/two-coffee-cup-wooden-table_23-2147908352.jpg?t=st=1714551485~exp=1714555085~hmac=07d660cfb842f31fbd0ecdfa34260ab2fb1df8a81d6dc0a093f93c336e441959&w=826",
+        "translations": {
+          "English": {
+            "text": "Chocolate Coffee",
+            "price": "$4.5"
+          },
+          "French": {
+            "text": "Café au Chocolat",
+            "price": "€4,50"
+          },
+          "Spanish": {
+            "text": "Café de Chocolate",
+            "price": "€4,50"
+          },
+          "Urdu": {
+            "text": "چاکلیٹ کوفی",
+            "price": "₨450"
+          }
+        }
+      },
+      {
+        "id": 2,
+        "path": "https://img.freepik.com/premium-photo/glass-green-drink-with-caramel-sauce-being-poured-into-it_632638-1045.jpg?w=360",
+        "translations": {
+          "English": {
+            "text": "Vanilla Latte",
+            "price": "$5.8"
+          },
+          "French": {
+            "text": "Lait de Vanille",
+            "price": "€5,80"
+          },
+          "Spanish": {
+            "text": "Latte de Vainilla",
+            "price": "€5,80"
+          },
+          "Urdu": {
+            "text": "ونیلا لیٹے",
+            "price": "₨580"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "path": "https://img.freepik.com/premium-photo/hot-coffee-cup-old-wood-table-with-blur-dark-green-nature-background-vintage-style_979495-49883.jpg?w=740",
+        "translations": {
+          "English": {
+            "text": "Caramel Macchiato",
+            "price": "$6.2"
+          },
+          "French": {
+            "text": "Caramel Macchiato",
+            "price": "€6,20"
+          },
+          "Spanish": {
+            "text": "Caramel Macchiato",
+            "price": "€6,20"
+          },
+          "Urdu": {
+            "text": "کیریمل میکیاتو",
+            "price": "₨620"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "path": "https://img.freepik.com/free-photo/coffee-cup-wooden-table-with-gradient-photo-style_53876-14314.jpg?t=st=1714552384~exp=1714555984~hmac=ead162ea49e7ff9c5718c129a6dbaa37dbada55f507a8ed4f68d13f414233c84&w=740",
+        "translations": {
+          "English": {
+            "text": "Espresso",
+            "price": "$3.8"
+          },
+          "French": {
+            "text": "Espresso",
+            "price": "€3,80"
+          },
+          "Spanish": {
+            "text": "Espresso",
+            "price": "€3,80"
+          },
+          "Urdu": {
+            "text": "ایسپریسو",
+            "price": "₨380"
+          }
+        }
+      }
+    ]
+  }
+}
